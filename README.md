@@ -98,12 +98,6 @@ offset_grid_image = draw_grid(image, grid_size_x=50, grid_size_y=50, offset_x=25
 ![Fixed Size Grid](screenshots/fixed_size_grid.png)
 *Fixed-size grid with 50x50 pixel cells*
 
-![Golden Ratio Grid](screenshots/golden_ratio_grid.png)
-*Golden ratio grid with 2 divisions*
-
-![Grid Positioning](screenshots/grid_positioning.png)
-*Different grid positions using the offset controls*
-
 ## Requirements
 
 - Python 3.7+
