@@ -41,8 +41,8 @@ A powerful Streamlit application for adding customizable grids to images. Perfec
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/image-grid-tool.git
-   cd image-grid-tool
+   git clone https://github.com/yourusername/image_grid.git
+   cd image_grid
    ```
 
 2. Create a virtual environment (optional but recommended):
