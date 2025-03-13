@@ -41,7 +41,7 @@ A powerful Streamlit application for adding customizable grids to images. Perfec
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/image_grid.git
+   git clone https://github.com/lhstorm/image_grid.git
    cd image_grid
    ```
 
